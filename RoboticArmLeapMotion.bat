@@ -1,0 +1,1 @@
+jruby -J-classpath LeapSDK/lib/LeapJava.jar -J-Djava.library.path=LeapSDK/lib/x86 -J-classpath pccomm.jar RoboticArmLeapMotion.rb

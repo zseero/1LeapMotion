@@ -1,0 +1,1 @@
+C:\jruby-1.7.2\bin\jruby -J-classpath "LeapSDK/lib/LeapJava.jar" -J-Djava.library.path=LeapSDK/lib/x86 RubyLeapMouse.rb
